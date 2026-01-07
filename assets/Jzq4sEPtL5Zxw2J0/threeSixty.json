@@ -1,0 +1,27 @@
+{
+  "version": "3.107.35974.0",
+  "course_id": "5ncEgHL3dED",
+  "title": "Adrenalina",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena introductoria"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6biuXmcCOr3",
+      "title": "Diapositiva de introducción",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
