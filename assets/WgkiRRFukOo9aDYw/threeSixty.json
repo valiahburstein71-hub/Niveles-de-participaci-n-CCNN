@@ -1,0 +1,27 @@
+{
+  "version": "3.107.35974.0",
+  "course_id": "5s4mxyqHlWr",
+  "title": "Interacción inmersiva CCNN",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena introductoria"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5YMRzmxuW8j",
+      "title": "Niveles de participación - Rosa",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
